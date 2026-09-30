@@ -6,8 +6,8 @@
 # this fetches is reviewable at the tag below.
 set -eu
 
-TAG="v0.0.13"
-SHA="f4a0c5419a635aa375e1156a11f3dc58e9fb0ca703d687a3f7674899abb1ae17"
+TAG="v0.0.14"
+SHA="33fa81d0bd77ee6b25462b561a69c64fe821647f041a6d287346f61cef1fe9c2"
 URL="https://raw.githubusercontent.com/G-OTW/OpenTraderWorld/${TAG}/deploy/server-setup.sh"
 
 tmp="$(mktemp)"
